@@ -1,11 +1,5 @@
 # gensyn-testnet
 
-Berikut file README yang bisa kamu langsung pakai di GitHub, sudah diformat seperti [repo asli](https://github.com/zunxbt/gensyn-testnet), lengkap dengan markdown dan gambar screenshot-nya. Pastikan kamu upload file `screenshot.png` ke repositori GitHub kamu nanti.
-
----
-
-### ✅ README.md (Copy dan paste ke file README.md)
-
 ```markdown
 # Gensyn Testnet Node Guide
 
