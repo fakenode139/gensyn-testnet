@@ -70,7 +70,8 @@
 
    When you see interface like below, you can detach from this screen session:
 
-   ![screenshot](./screenshot.png)
+   ![screenshot](https://raw.githubusercontent.com/fakenode139/gensyn-testnet/main/screenshot.png)
+
 
 7. **Detach from screen session**
    ```
